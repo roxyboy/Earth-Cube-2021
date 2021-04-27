@@ -1,0 +1,13 @@
+name: earthcube2021
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - xarray
+  - numpy
+  - matplotlib
+  - dask
+  - jupyterlab
+  - netCDF4
+  - xgcm
