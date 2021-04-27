@@ -9,5 +9,5 @@ The E-P flux and its divergence are then diagnosed from the last time step of a 
 Try the notebook on |Binder|
 
 .. |Binder| image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/roxyboy/qg-EP/HEAD?filepath=notebooks%2FTU_05_Diagnosing-the-Eliassen-Palm-flux-from-a-quasi-geostrophic-double-gyre-ensemble.ipynb
+   :target: https://mybinder.org/v2/gh/roxyboy/Earth-Cube-2021/HEAD?filepath=notebooks%2FTU_05_Diagnosing-the-Eliassen-Palm-flux-from-a-quasi-geostrophic-double-gyre-ensemble.ipynb
 
